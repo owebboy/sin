@@ -1,0 +1,26 @@
+{
+  "name": "sin",
+  "version": "1.0.0",
+  "description": "A simple module that finds the sin of an angle",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owebboy/sin.git"
+  },
+  "keywords": [
+    "math",
+    "trigonometry"
+  ],
+  "author": "Oliver Pope",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/owebboy/sin/issues"
+  },
+  "homepage": "https://github.com/owebboy/sin#readme",
+  "dependencies": {
+    "mocha": "^3.2.0"
+  }
+}
