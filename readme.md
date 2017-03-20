@@ -2,7 +2,7 @@
 
 ## Installation
 ```bash
-npm install sin
+npm install sinjs
 ```
 
 ## Usage
