@@ -1,6 +1,6 @@
 {
   "name": "sinjs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple module that finds the sin of an angle",
   "main": "index.js",
   "scripts": {
