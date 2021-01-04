@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/owebboy/sin#readme",
   "dependencies": {
-    "mocha": "^3.2.0"
+    "mocha": "^8.2.1"
   }
 }
